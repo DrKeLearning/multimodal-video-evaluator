@@ -32,7 +32,7 @@ The **Multimodal Video Evaluator (MVE)** acts as an automated instructional desi
 
 ## 🚀 Quick Start: Running MVE on Google Gemini
 
-MVE is optimized and tested for **Google Gemini 3.1 Pro** due to its long-context multimodal window (fpr accuracy) and multi-stream reasoning capabilities.
+MVE is optimized and tested for **Google Gemini 3.1 Pro** due to its long-context multimodal window (for accuracy) and multi-stream reasoning capabilities.
 
 ### Method 1: Create a Custom "Gem" in Google Gemini (No-Code / Interactive)
 
