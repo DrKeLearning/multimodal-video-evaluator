@@ -22,11 +22,11 @@ The **Multimodal Video Evaluator (MVE)** acts as an automated instructional desi
 
 ## 🗂 Version Roadmap & Matrix
 
-| Version | Status | Primary Focus / Notes | Directory |
-| :--- | :--- | :--- | :--- |
-| **v1.0** | Legacy | Initial prompt prototype. | Archived |
-| **v2.0** | **Current Stable** | Complete USF framework integration, Sync Audit Logic ($\Delta T$), weighted scoring logic, and 15 production style classifications. | [`/prompts/v2.0`](./prompts/v2.0/) |
-| **v3.0** | 🚧 In Development | Extended multimodal reasoning, automated timestamp extraction, and API integration tools. | [`/prompts/v3.0-draft`](./prompts/v3.0-draft/) |
+| Version | Status | Primary Focus / Notes | System Prompt | Knowledgebase |
+| :--- | :--- | :--- | :--- | :--- |
+| **v1.0** | Legacy | Initial prompt prototype and core rules. | Archived | Archived |
+| **v2.0** | **Current Stable** | Extended multimodal reasoning at 91% accuracy benchmark acvhieved. | [`/prompts/v2.0/`](./prompts/v2.0/) | [`/knowledgebase/v2.0/`](./knowledgebase/v2.0/) |
+| **v3.0** | 🚧 In Development | Aiming at 95% accuracy benchmark and visual examples extensoion. | [`/prompts/v3.0-draft/`](./prompts/v3.0-draft/) | [`/knowledgebase/v3.0-draft/`](./knowledgebase/v3.0-draft/) |
 
 ---
 
