@@ -26,7 +26,7 @@ The **Multimodal Video Evaluator (MVE)** acts as an automated instructional desi
 | :--- | :--- | :--- | :--- | :--- |
 | **v1.0** | Legacy | Initial prompt prototype and core rules. | Archived | Archived |
 | **v2.0** | **Current Stable** | Extended multimodal reasoning at 92% accuracy benchmark acvhieved. | [`/prompts/v2.0/`](./prompts/v2.0/) | [`/knowledgebase/v2.0/`](./knowledgebase/v2.0/) |
-| **v3.0** | 🚧 In Development | Aiming at 95% accuracy benchmark and visual examples extensoion. | [`/prompts/v3.0-draft/`](./prompts/v3.0-draft/) | [`/knowledgebase/v3.0-draft/`](./knowledgebase/v3.0-draft/) |
+| **v3.0** | 🚧 In Development | Not available yet. Aiming at 95% accuracy benchmark and visual examples extensoion. | [`/prompts/v3.0-draft/`](./prompts/v3.0-draft/) | [`/knowledgebase/v3.0-draft/`](./knowledgebase/v3.0-draft/) |
 
 ---
 
