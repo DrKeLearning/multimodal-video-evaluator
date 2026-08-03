@@ -22,8 +22,7 @@ The **Multimodal Video Evaluator (MVE)** acts as an automated instructional desi
 
 ## 🎥 See MVE in Action
 
-
-
+https://github.com/user-attachments/assets/3a21d60b-8f5f-4595-8786-ac70da77b59b
 
 *Watch how MVE processes a 3-minute instructional video and generates a complete pedagogical audit report.*
 
